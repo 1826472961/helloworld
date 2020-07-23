@@ -1,2 +1,1 @@
-# helloworld
-这是我第一个github存储库
+第一次使用GitHub，这将是场练习。
